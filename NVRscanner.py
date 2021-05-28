@@ -3,7 +3,7 @@
 """
 Hikvision DVR scanner
  
-autor: SQS
+autor: AZER
 """
 R="\033[31m" #Red color
 O="\033[33m" #Yellow color
